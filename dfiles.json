@@ -1,0 +1,18 @@
+{
+  "res/scripts/client/gui/mods/armorflashlight/__init__.pyc": "scripts/client/gui/mods/armorflashlight/__init__.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_accel.pyc": "scripts/client/gui/mods/armorflashlight/afl_accel.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_battle.pyc": "scripts/client/gui/mods/armorflashlight/afl_battle.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_data.pyc": "scripts/client/gui/mods/armorflashlight/afl_data.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_fwdpack.pyc": "scripts/client/gui/mods/armorflashlight/afl_fwdpack.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_havok.pyc": "scripts/client/gui/mods/armorflashlight/afl_havok.py",
+  "res/scripts/client/gui/mods/armorflashlight/afl_settings.pyc": "afl_settings",
+  "res/scripts/client/gui/mods/armorflashlight/afl_settings_ui.pyc": "scripts/client/gui/mods/armorflashlight/afl_settings_ui.py",
+  "res/scripts/client/gui/mods/armorflashlight/config.pyc": "config",
+  "res/scripts/client/gui/mods/armorflashlight/lai_inspector.pyc": "scripts/client/gui/mods/armorflashlight/lai_inspector.py",
+  "res/scripts/client/gui/mods/armorflashlight/lai_models.pyc": "scripts/client/gui/mods/armorflashlight/lai_models.py",
+  "res/scripts/client/gui/mods/armorflashlight/log.pyc": "scripts/client/gui/mods/armorflashlight/log.py",
+  "res/scripts/client/gui/mods/armorflashlight/modsdk_hook.pyc": "scripts/client/gui/mods/armorflashlight/modsdk_hook.py",
+  "res/scripts/client/gui/mods/armorflashlight/offline_dev.pyc": "scripts/client/gui/mods/armorflashlight/offline_dev.py",
+  "res/scripts/client/gui/mods/armorflashlight/runtime.pyc": "runtime",
+  "res/scripts/client/gui/mods/mod_armorflashlight.pyc": "scripts/client/gui/mods/mod_armorflashlight.py"
+}
